@@ -30,16 +30,6 @@ Para que este proyecto funcione en tu máquina local, necesitarás tener instala
 - `npm install`: Instala las dependencias del proyecto.
 - `npm start`: Inicia el servidor local (si es necesario) y abre la aplicación en tu navegador web.
 
-## Contribución
-
-Las contribuciones son bienvenidas. Si deseas contribuir al proyecto, por favor sigue estos pasos:
-
-1. Haz un fork del repositorio.
-2. Crea una nueva rama (`git checkout -b feature/nueva-caracteristica`).
-3. Realiza tus cambios y haz commit de ellos (`git commit -am 'Añade nueva característica'`).
-4. Haz push a la rama (`git push origin feature/nueva-caracteristica`).
-5. Abre un Pull Request.
-
 ## Autor
 
 Zarfala
